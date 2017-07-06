@@ -1,0 +1,681 @@
+Category,Cost,Name,Team
+All Rounder 1,26,Christopher Froome,Team Sky
+All Rounder 1,22,Richie Porte,BMC Racing Team
+All Rounder 1,16,Alberto Contador,Trek - Segafredo
+All Rounder 1,16,Alejandro Valverde,Movistar Team
+All Rounder 1,14,Thibaut Pinot,FDJ
+All Rounder 1,12,Geraint Thomas,Team Sky
+All Rounder 1,10,Andrey Amador,Movistar Team
+All Rounder 1,10,Ion Izagirre,Bahrain Merida Pro Cycling Team
+All Rounder 1,10,Diego Ulissi,UAE Team Emirates
+All Rounder 1,10,Simon Yates,ORICA-Scott
+All Rounder 1,8,Warren Barguil,Team Sunweb
+All Rounder 1,8,Robert Gesink,Team LottoNL-Jumbo
+All Rounder 1,8,Bauke Mollema,Trek - Segafredo
+All Rounder 1,8,Primož Roglic,Team LottoNL-Jumbo
+All Rounder 1,8,Andrew Talansky,Cannondale-Drapac Pro Cycling Team
+All Rounder 1,8,Rigoberto Uran,Cannondale-Drapac Pro Cycling Team
+All Rounder 2,26,Christopher Froome,Team Sky
+All Rounder 2,22,Richie Porte,BMC Racing Team
+All Rounder 2,16,Alberto Contador,Trek - Segafredo
+All Rounder 2,16,Alejandro Valverde,Movistar Team
+All Rounder 2,14,Thibaut Pinot,FDJ
+All Rounder 2,12,Geraint Thomas,Team Sky
+All Rounder 2,10,Andrey Amador,Movistar Team
+All Rounder 2,10,Ion Izagirre,Bahrain Merida Pro Cycling Team
+All Rounder 2,10,Diego Ulissi,UAE Team Emirates
+All Rounder 2,10,Simon Yates,ORICA-Scott
+All Rounder 2,8,Warren Barguil,Team Sunweb
+All Rounder 2,8,Robert Gesink,Team LottoNL-Jumbo
+All Rounder 2,8,Bauke Mollema,Trek - Segafredo
+All Rounder 2,8,Primož Roglic,Team LottoNL-Jumbo
+All Rounder 2,8,Andrew Talansky,Cannondale-Drapac Pro Cycling Team
+All Rounder 2,8,Rigoberto Uran,Cannondale-Drapac Pro Cycling Team
+Climber 1,18,Nairo Quintana,Movistar Team
+Climber 1,16,Romain Bardet,AG2R La Mondiale
+Climber 1,14,Fabio Aru,Astana Pro Team
+Climber 1,14,Jakob Fuglsang,Astana Pro Team
+Climber 1,12,Johan Esteban Chaves,ORICA-Scott
+Climber 1,12,Mikel Landa,Team Sky
+Climber 1,12,Rafal Majka,Bora - Hansgrohe
+Climber 1,12,Daniel Martin,Quick-Step Floors
+Climber 1,10,Sergio Luis Henao,Team Sky
+Climber 1,10,Louis Meintjes,UAE Team Emirates
+Climber 1,10,Pierre Rolland,Cannondale-Drapac Pro Cycling Team
+Climber 1,8,John Darwin Atapuma,UAE Team Emirates
+Climber 1,8,George Bennett,Team LottoNL-Jumbo
+Climber 1,8,Carlos Betancur,Movistar Team
+Climber 1,8,Gianluca Brambilla,Quick-Step Floors
+Climber 1,8,Emanuel Buchmann,Bora - Hansgrohe
+Climber 1,8,Damiano Caruso,BMC Racing Team
+Climber 1,8,Alessandro De Marchi,BMC Racing Team
+Climber 1,8,Mathias Frank,AG2R La Mondiale
+Climber 1,8,Pierre Latour,AG2R La Mondiale
+Climber 1,8,Daniel Moreno,Movistar Team
+Climber 1,8,Daniel Navarro,Cofidis Solutions Crédits
+Climber 1,8,Mikel Nieve,Team Sky
+Climber 1,8,Serge Pauwels,Dimension Data
+Climber 2,18,Nairo Quintana,Movistar Team
+Climber 2,16,Romain Bardet,AG2R La Mondiale
+Climber 2,14,Fabio Aru,Astana Pro Team
+Climber 2,14,Jakob Fuglsang,Astana Pro Team
+Climber 2,12,Johan Esteban Chaves,ORICA-Scott
+Climber 2,12,Mikel Landa,Team Sky
+Climber 2,12,Rafal Majka,Bora - Hansgrohe
+Climber 2,12,Daniel Martin,Quick-Step Floors
+Climber 2,10,Sergio Luis Henao,Team Sky
+Climber 2,10,Louis Meintjes,UAE Team Emirates
+Climber 2,10,Pierre Rolland,Cannondale-Drapac Pro Cycling Team
+Climber 2,8,John Darwin Atapuma,UAE Team Emirates
+Climber 2,8,George Bennett,Team LottoNL-Jumbo
+Climber 2,8,Carlos Betancur,Movistar Team
+Climber 2,8,Gianluca Brambilla,Quick-Step Floors
+Climber 2,8,Emanuel Buchmann,Bora - Hansgrohe
+Climber 2,8,Damiano Caruso,BMC Racing Team
+Climber 2,8,Alessandro De Marchi,BMC Racing Team
+Climber 2,8,Mathias Frank,AG2R La Mondiale
+Climber 2,8,Pierre Latour,AG2R La Mondiale
+Climber 2,8,Daniel Moreno,Movistar Team
+Climber 2,8,Daniel Navarro,Cofidis Solutions Crédits
+Climber 2,8,Mikel Nieve,Team Sky
+Climber 2,8,Serge Pauwels,Dimension Data
+Sprinter 1,22,Peter Sagan,Bora - Hansgrohe
+Sprinter 1,16,Marcel Kittel,Quick-Step Floors
+Sprinter 1,14,André Greipel,Lotto Soudal
+Sprinter 1,12,Arnaud Démare,FDJ
+Sprinter 1,10,Nacer Bouhanni,Cofidis Solutions Crédits
+Sprinter 1,10,Mark Cavendish,Dimension Data
+Sprinter 1,10,Bryan Coquard,Direct Energie
+Sprinter 1,10,Alexander Kristoff,Team Katusha - Alpecin
+Sprinter 1,10,Michael Matthews,Team Sunweb
+Sprinter 1,8,Sonny Colbrelli,Bahrain Merida Pro Cycling Team
+Sprinter 1,8,John Degenkolb,Trek - Segafredo
+Sprinter 1,8,Dylan Groenewegen,Team LottoNL-Jumbo
+Sprinter 1,8,Daniel McLay,Fortuneo - Vital Concept
+Sprinter 1,6,Edvald Boasson Hagen,Dimension Data
+Sprinter 1,6,Samuel Dumoulin,AG2R La Mondiale
+Sprinter 1,6,Daryl Impey,ORICA-Scott
+Sprinter 1,6,Jurgen Roelandts,Lotto Soudal
+Sprinter 1,6,José Joaquín Rojas,Movistar Team
+Sprinter 1,6,Ben Swift,UAE Team Emirates
+Unclassed Rider 1,8,Michael Albasini,ORICA-Scott
+Unclassed Rider 1,8,Jan Bakelants,AG2R La Mondiale
+Unclassed Rider 1,8,Patrick Bevin,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 1,8,Dario Cataldo,Astana Pro Team
+Unclassed Rider 1,8,Sylvain Chavanel,Direct Energie
+Unclassed Rider 1,8,Fabio Felline,Trek - Segafredo
+Unclassed Rider 1,8,Rubén Fernández,Movistar Team
+Unclassed Rider 1,8,Tony Gallopin,Lotto Soudal
+Unclassed Rider 1,8,Philippe Gilbert,Quick-Step Floors
+Unclassed Rider 1,8,Jesús Herrada,Movistar Team
+Unclassed Rider 1,8,Roman Kreuziger,ORICA-Scott
+Unclassed Rider 1,8,Michal Kwiatkowski,Team Sky
+Unclassed Rider 1,8,Tony Martin,Team Katusha - Alpecin
+Unclassed Rider 1,8,Jarlinson Pantano,Trek - Segafredo
+Unclassed Rider 1,8,Nicolas Roche,BMC Racing Team
+Unclassed Rider 1,8,Matteo Trentin,Quick-Step Floors
+Unclassed Rider 1,8,Greg Van Avermaet,BMC Racing Team
+Unclassed Rider 1,8,Tim Wellens,Lotto Soudal
+Unclassed Rider 1,6,Nikias Arndt,Team Sunweb
+Unclassed Rider 1,6,Lars Bak,Lotto Soudal
+Unclassed Rider 1,6,Daniele Bennati,Movistar Team
+Unclassed Rider 1,6,Tiesj Benoot,Lotto Soudal
+Unclassed Rider 1,6,Alberto Bettiol,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 1,6,Maciej Bodnar,Bora - Hansgrohe
+Unclassed Rider 1,6,Grega Bole,Bahrain Merida Pro Cycling Team
+Unclassed Rider 1,6,Maxime Bouet,Fortuneo - Vital Concept
+Unclassed Rider 1,6,Lilian Calmejane,Direct Energie
+Unclassed Rider 1,6,André Cardoso,Trek - Segafredo
+Unclassed Rider 1,6,Jonathan Castroviejo,Movistar Team
+Unclassed Rider 1,6,Davide Cimolai,FDJ
+Unclassed Rider 1,6,Ondrej Cink,Bahrain Merida Pro Cycling Team
+Unclassed Rider 1,6,Dimitri Claeys,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Simon Clarke,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 1,6,Thomas De Gendt,Lotto Soudal
+Unclassed Rider 1,6,Axel Domont,AG2R La Mondiale
+Unclassed Rider 1,6,Alex Dowsett,Movistar Team
+Unclassed Rider 1,6,Luke Durbridge,ORICA-Scott
+Unclassed Rider 1,6,Nicolas Edet,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Brice Feillu,Fortuneo - Vital Concept
+Unclassed Rider 1,6,Cyril Gautier,AG2R La Mondiale
+Unclassed Rider 1,6,Simon Geschke,Team Sunweb
+Unclassed Rider 1,6,Michael Gogl,Trek - Segafredo
+Unclassed Rider 1,6,Andrei Grivko,Astana Pro Team
+Unclassed Rider 1,6,Jacopo Guarnieri,FDJ
+Unclassed Rider 1,6,Marco Haller,Team Katusha - Alpecin
+Unclassed Rider 1,6,Jesper Hansen,Astana Pro Team
+Unclassed Rider 1,6,Adam Hansen,Lotto Soudal
+Unclassed Rider 1,6,Romain Hardy,Fortuneo - Vital Concept
+Unclassed Rider 1,6,Reto Hollenstein,Team Katusha - Alpecin
+Unclassed Rider 1,6,Damien Howson,ORICA-Scott
+Unclassed Rider 1,6,Jens Keukeleire,ORICA-Scott
+Unclassed Rider 1,6,Vasil Kiryienka,Team Sky
+Unclassed Rider 1,6,Robert Kišerlovski,Team Katusha - Alpecin
+Unclassed Rider 1,6,Merhawi Kudus,Dimension Data
+Unclassed Rider 1,6,Stefan Küng,BMC Racing Team
+Unclassed Rider 1,6,Vegard Stake Laengen,UAE Team Emirates
+Unclassed Rider 1,6,Maurits Lammertink,Team Katusha - Alpecin
+Unclassed Rider 1,6,Yves Lampaert,Quick-Step Floors
+Unclassed Rider 1,6,Christophe Laporte,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Alexey Lutsenko,Astana Pro Team
+Unclassed Rider 1,6,Tiago Machado,Team Katusha - Alpecin
+Unclassed Rider 1,6,Guillaume Martin,Wanty - Groupe Gobert
+Unclassed Rider 1,6,Luis Ángel Maté,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Jay McCarthy,Bora - Hansgrohe
+Unclassed Rider 1,6,Amaël Moinard,BMC Racing Team
+Unclassed Rider 1,6,Oliver Naesen,AG2R La Mondiale
+Unclassed Rider 1,6,Yoann Offredo,Wanty - Groupe Gobert
+Unclassed Rider 1,6,Nelson Oliveira,Movistar Team
+Unclassed Rider 1,6,Pierre-Luc Perichon,Fortuneo - Vital Concept
+Unclassed Rider 1,6,Taylor Phinney,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 1,6,Luke Rowe,Team Sky
+Unclassed Rider 1,6,Fabio Sabatini,Quick-Step Floors
+Unclassed Rider 1,6,Michael Schar,BMC Racing Team
+Unclassed Rider 1,6,Florian Sénéchal,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Eduardo Sepúlveda,Fortuneo - Vital Concept
+Unclassed Rider 1,6,Marcel Sieberg,Lotto Soudal
+Unclassed Rider 1,6,Julien Simon,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Zdenek Stybar,Quick-Step Floors
+Unclassed Rider 1,6,Jasha Sütterlin,Movistar Team
+Unclassed Rider 1,6,Laurens Ten Dam,Team Sunweb
+Unclassed Rider 1,6,Anthony Turgis,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Florian Vachon,Fortuneo - Vital Concept
+Unclassed Rider 1,6,Petr Vakoc,Quick-Step Floors
+Unclassed Rider 1,6,Michael Valgren,Astana Pro Team
+Unclassed Rider 1,6,Dylan Van Baarle,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 1,6,Jos Van Emden,Team LottoNL-Jumbo
+Unclassed Rider 1,6,Jonas Van Genechten,Cofidis Solutions Crédits
+Unclassed Rider 1,6,Pieter Vanspeybrouck,Wanty - Groupe Gobert
+Unclassed Rider 1,6,Julien Vermote,Quick-Step Floors
+Unclassed Rider 1,6,Thomas Voeckler,Direct Energie
+Unclassed Rider 1,6,Alexis Vuillermoz,AG2R La Mondiale
+Unclassed Rider 1,6,Danilo Wyss,BMC Racing Team
+Unclassed Rider 1,6,Rick Zabel,Team Katusha - Alpecin
+Unclassed Rider 1,4,Frederik Backaert,Wanty - Groupe Gobert
+Unclassed Rider 1,4,Jack Bauer,Quick-Step Floors
+Unclassed Rider 1,4,Marcus Burghardt,Bora - Hansgrohe
+Unclassed Rider 1,4,Roy Curvers,Team Sunweb
+Unclassed Rider 1,4,Koen De Kort,Trek - Segafredo
+Unclassed Rider 1,4,Thomas Degand,Wanty - Groupe Gobert
+Unclassed Rider 1,4,Mickaël Delage,FDJ
+Unclassed Rider 1,4,Imanol Erviti,Movistar Team
+Unclassed Rider 1,4,Ben Gastauer,AG2R La Mondiale
+Unclassed Rider 1,4,Elie Gesbert,Fortuneo - Vital Concept
+Unclassed Rider 1,4,Tsgabu Grmay,Bahrain Merida Pro Cycling Team
+Unclassed Rider 1,4,Dmitriy Gruzdev,Astana Pro Team
+Unclassed Rider 1,4,Mathew Hayman,ORICA-Scott
+Unclassed Rider 1,4,Markel Irizar,Trek - Segafredo
+Unclassed Rider 1,4,Christian Knees,Team Sky
+Unclassed Rider 1,4,Ignatas Konovalovas,FDJ
+Unclassed Rider 1,4,Olivier Le Gac,FDJ
+Unclassed Rider 1,4,Tom Leezer,Team LottoNL-Jumbo
+Unclassed Rider 1,4,Cyril Lemoine,Cofidis Solutions Crédits
+Unclassed Rider 1,4,Paul Martens,Team LottoNL-Jumbo
+Unclassed Rider 1,4,Marco Minnaard,Wanty - Groupe Gobert
+Unclassed Rider 1,4,Laurent Pichon,Fortuneo - Vital Concept
+Unclassed Rider 1,4,Nils Politt,Team Katusha - Alpecin
+Unclassed Rider 1,4,Pawel Poljanski,Bora - Hansgrohe
+Unclassed Rider 1,4,Timo Roosen,Team LottoNL-Jumbo
+Unclassed Rider 1,4,Stephane Rossetto,Cofidis Solutions Crédits
+Unclassed Rider 1,4,Juraj Sagan,Bora - Hansgrohe
+Unclassed Rider 1,4,Marc Sarreau,FDJ
+Unclassed Rider 1,4,Rüdiger Selig,Bora - Hansgrohe
+Unclassed Rider 1,4,Ramon Sinkeldam,Team Sunweb
+Unclassed Rider 1,4,Geoffrey Soupe,Cofidis Solutions Crédits
+Unclassed Rider 1,4,Mike Teunissen,Team Sunweb
+Unclassed Rider 1,4,Albert Timmer,Team Sunweb
+Unclassed Rider 1,4,Guillaume Van Keirsbulck,Wanty - Groupe Gobert
+Unclassed Rider 1,4,Kenneth Vanbilsen,Cofidis Solutions Crédits
+Unclassed Rider 1,4,Robert Wagner,Team LottoNL-Jumbo
+Unclassed Rider 1,4,Andrey Zeits,Astana Pro Team
+Unclassed Rider 2,8,Michael Albasini,ORICA-Scott
+Unclassed Rider 2,8,Jan Bakelants,AG2R La Mondiale
+Unclassed Rider 2,8,Patrick Bevin,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 2,8,Dario Cataldo,Astana Pro Team
+Unclassed Rider 2,8,Sylvain Chavanel,Direct Energie
+Unclassed Rider 2,8,Fabio Felline,Trek - Segafredo
+Unclassed Rider 2,8,Rubén Fernández,Movistar Team
+Unclassed Rider 2,8,Tony Gallopin,Lotto Soudal
+Unclassed Rider 2,8,Philippe Gilbert,Quick-Step Floors
+Unclassed Rider 2,8,Jesús Herrada,Movistar Team
+Unclassed Rider 2,8,Roman Kreuziger,ORICA-Scott
+Unclassed Rider 2,8,Michal Kwiatkowski,Team Sky
+Unclassed Rider 2,8,Tony Martin,Team Katusha - Alpecin
+Unclassed Rider 2,8,Jarlinson Pantano,Trek - Segafredo
+Unclassed Rider 2,8,Nicolas Roche,BMC Racing Team
+Unclassed Rider 2,8,Matteo Trentin,Quick-Step Floors
+Unclassed Rider 2,8,Greg Van Avermaet,BMC Racing Team
+Unclassed Rider 2,8,Tim Wellens,Lotto Soudal
+Unclassed Rider 2,6,Nikias Arndt,Team Sunweb
+Unclassed Rider 2,6,Lars Bak,Lotto Soudal
+Unclassed Rider 2,6,Daniele Bennati,Movistar Team
+Unclassed Rider 2,6,Tiesj Benoot,Lotto Soudal
+Unclassed Rider 2,6,Alberto Bettiol,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 2,6,Maciej Bodnar,Bora - Hansgrohe
+Unclassed Rider 2,6,Grega Bole,Bahrain Merida Pro Cycling Team
+Unclassed Rider 2,6,Maxime Bouet,Fortuneo - Vital Concept
+Unclassed Rider 2,6,Lilian Calmejane,Direct Energie
+Unclassed Rider 2,6,André Cardoso,Trek - Segafredo
+Unclassed Rider 2,6,Jonathan Castroviejo,Movistar Team
+Unclassed Rider 2,6,Davide Cimolai,FDJ
+Unclassed Rider 2,6,Ondrej Cink,Bahrain Merida Pro Cycling Team
+Unclassed Rider 2,6,Dimitri Claeys,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Simon Clarke,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 2,6,Thomas De Gendt,Lotto Soudal
+Unclassed Rider 2,6,Axel Domont,AG2R La Mondiale
+Unclassed Rider 2,6,Alex Dowsett,Movistar Team
+Unclassed Rider 2,6,Luke Durbridge,ORICA-Scott
+Unclassed Rider 2,6,Nicolas Edet,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Brice Feillu,Fortuneo - Vital Concept
+Unclassed Rider 2,6,Cyril Gautier,AG2R La Mondiale
+Unclassed Rider 2,6,Simon Geschke,Team Sunweb
+Unclassed Rider 2,6,Michael Gogl,Trek - Segafredo
+Unclassed Rider 2,6,Andrei Grivko,Astana Pro Team
+Unclassed Rider 2,6,Jacopo Guarnieri,FDJ
+Unclassed Rider 2,6,Marco Haller,Team Katusha - Alpecin
+Unclassed Rider 2,6,Jesper Hansen,Astana Pro Team
+Unclassed Rider 2,6,Adam Hansen,Lotto Soudal
+Unclassed Rider 2,6,Romain Hardy,Fortuneo - Vital Concept
+Unclassed Rider 2,6,Reto Hollenstein,Team Katusha - Alpecin
+Unclassed Rider 2,6,Damien Howson,ORICA-Scott
+Unclassed Rider 2,6,Jens Keukeleire,ORICA-Scott
+Unclassed Rider 2,6,Vasil Kiryienka,Team Sky
+Unclassed Rider 2,6,Robert Kišerlovski,Team Katusha - Alpecin
+Unclassed Rider 2,6,Merhawi Kudus,Dimension Data
+Unclassed Rider 2,6,Stefan Küng,BMC Racing Team
+Unclassed Rider 2,6,Vegard Stake Laengen,UAE Team Emirates
+Unclassed Rider 2,6,Maurits Lammertink,Team Katusha - Alpecin
+Unclassed Rider 2,6,Yves Lampaert,Quick-Step Floors
+Unclassed Rider 2,6,Christophe Laporte,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Alexey Lutsenko,Astana Pro Team
+Unclassed Rider 2,6,Tiago Machado,Team Katusha - Alpecin
+Unclassed Rider 2,6,Guillaume Martin,Wanty - Groupe Gobert
+Unclassed Rider 2,6,Luis Ángel Maté,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Jay McCarthy,Bora - Hansgrohe
+Unclassed Rider 2,6,Amaël Moinard,BMC Racing Team
+Unclassed Rider 2,6,Oliver Naesen,AG2R La Mondiale
+Unclassed Rider 2,6,Yoann Offredo,Wanty - Groupe Gobert
+Unclassed Rider 2,6,Nelson Oliveira,Movistar Team
+Unclassed Rider 2,6,Pierre-Luc Perichon,Fortuneo - Vital Concept
+Unclassed Rider 2,6,Taylor Phinney,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 2,6,Luke Rowe,Team Sky
+Unclassed Rider 2,6,Fabio Sabatini,Quick-Step Floors
+Unclassed Rider 2,6,Michael Schar,BMC Racing Team
+Unclassed Rider 2,6,Florian Sénéchal,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Eduardo Sepúlveda,Fortuneo - Vital Concept
+Unclassed Rider 2,6,Marcel Sieberg,Lotto Soudal
+Unclassed Rider 2,6,Julien Simon,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Zdenek Stybar,Quick-Step Floors
+Unclassed Rider 2,6,Jasha Sütterlin,Movistar Team
+Unclassed Rider 2,6,Laurens Ten Dam,Team Sunweb
+Unclassed Rider 2,6,Anthony Turgis,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Florian Vachon,Fortuneo - Vital Concept
+Unclassed Rider 2,6,Petr Vakoc,Quick-Step Floors
+Unclassed Rider 2,6,Michael Valgren,Astana Pro Team
+Unclassed Rider 2,6,Dylan Van Baarle,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 2,6,Jos Van Emden,Team LottoNL-Jumbo
+Unclassed Rider 2,6,Jonas Van Genechten,Cofidis Solutions Crédits
+Unclassed Rider 2,6,Pieter Vanspeybrouck,Wanty - Groupe Gobert
+Unclassed Rider 2,6,Julien Vermote,Quick-Step Floors
+Unclassed Rider 2,6,Thomas Voeckler,Direct Energie
+Unclassed Rider 2,6,Alexis Vuillermoz,AG2R La Mondiale
+Unclassed Rider 2,6,Danilo Wyss,BMC Racing Team
+Unclassed Rider 2,6,Rick Zabel,Team Katusha - Alpecin
+Unclassed Rider 2,4,Frederik Backaert,Wanty - Groupe Gobert
+Unclassed Rider 2,4,Jack Bauer,Quick-Step Floors
+Unclassed Rider 2,4,Marcus Burghardt,Bora - Hansgrohe
+Unclassed Rider 2,4,Roy Curvers,Team Sunweb
+Unclassed Rider 2,4,Koen De Kort,Trek - Segafredo
+Unclassed Rider 2,4,Thomas Degand,Wanty - Groupe Gobert
+Unclassed Rider 2,4,Mickaël Delage,FDJ
+Unclassed Rider 2,4,Imanol Erviti,Movistar Team
+Unclassed Rider 2,4,Ben Gastauer,AG2R La Mondiale
+Unclassed Rider 2,4,Elie Gesbert,Fortuneo - Vital Concept
+Unclassed Rider 2,4,Tsgabu Grmay,Bahrain Merida Pro Cycling Team
+Unclassed Rider 2,4,Dmitriy Gruzdev,Astana Pro Team
+Unclassed Rider 2,4,Mathew Hayman,ORICA-Scott
+Unclassed Rider 2,4,Markel Irizar,Trek - Segafredo
+Unclassed Rider 2,4,Christian Knees,Team Sky
+Unclassed Rider 2,4,Ignatas Konovalovas,FDJ
+Unclassed Rider 2,4,Olivier Le Gac,FDJ
+Unclassed Rider 2,4,Tom Leezer,Team LottoNL-Jumbo
+Unclassed Rider 2,4,Cyril Lemoine,Cofidis Solutions Crédits
+Unclassed Rider 2,4,Paul Martens,Team LottoNL-Jumbo
+Unclassed Rider 2,4,Marco Minnaard,Wanty - Groupe Gobert
+Unclassed Rider 2,4,Laurent Pichon,Fortuneo - Vital Concept
+Unclassed Rider 2,4,Nils Politt,Team Katusha - Alpecin
+Unclassed Rider 2,4,Pawel Poljanski,Bora - Hansgrohe
+Unclassed Rider 2,4,Timo Roosen,Team LottoNL-Jumbo
+Unclassed Rider 2,4,Stephane Rossetto,Cofidis Solutions Crédits
+Unclassed Rider 2,4,Juraj Sagan,Bora - Hansgrohe
+Unclassed Rider 2,4,Marc Sarreau,FDJ
+Unclassed Rider 2,4,Rüdiger Selig,Bora - Hansgrohe
+Unclassed Rider 2,4,Ramon Sinkeldam,Team Sunweb
+Unclassed Rider 2,4,Geoffrey Soupe,Cofidis Solutions Crédits
+Unclassed Rider 2,4,Mike Teunissen,Team Sunweb
+Unclassed Rider 2,4,Albert Timmer,Team Sunweb
+Unclassed Rider 2,4,Guillaume Van Keirsbulck,Wanty - Groupe Gobert
+Unclassed Rider 2,4,Kenneth Vanbilsen,Cofidis Solutions Crédits
+Unclassed Rider 2,4,Robert Wagner,Team LottoNL-Jumbo
+Unclassed Rider 2,4,Andrey Zeits,Astana Pro Team
+Wildcard Rider,26,Christopher Froome,Team Sky
+Wildcard Rider,22,Richie Porte,BMC Racing Team
+Wildcard Rider,22,Peter Sagan,Bora - Hansgrohe
+Wildcard Rider,18,Nairo Quintana,Movistar Team
+Wildcard Rider,16,Romain Bardet,AG2R La Mondiale
+Wildcard Rider,16,Alberto Contador,Trek - Segafredo
+Wildcard Rider,16,Marcel Kittel,Quick-Step Floors
+Wildcard Rider,16,Alejandro Valverde,Movistar Team
+Wildcard Rider,14,Fabio Aru,Astana Pro Team
+Wildcard Rider,14,Jakob Fuglsang,Astana Pro Team
+Wildcard Rider,14,André Greipel,Lotto Soudal
+Wildcard Rider,14,Thibaut Pinot,FDJ
+Wildcard Rider,12,Johan Esteban Chaves,ORICA-Scott
+Wildcard Rider,12,Arnaud Démare,FDJ
+Wildcard Rider,12,Mikel Landa,Team Sky
+Wildcard Rider,12,Rafal Majka,Bora - Hansgrohe
+Wildcard Rider,12,Daniel Martin,Quick-Step Floors
+Wildcard Rider,12,Geraint Thomas,Team Sky
+Wildcard Rider,10,Andrey Amador,Movistar Team
+Wildcard Rider,10,Nacer Bouhanni,Cofidis Solutions Crédits
+Wildcard Rider,10,Mark Cavendish,Dimension Data
+Wildcard Rider,10,Bryan Coquard,Direct Energie
+Wildcard Rider,10,Sergio Luis Henao,Team Sky
+Wildcard Rider,10,Ion Izagirre,Bahrain Merida Pro Cycling Team
+Wildcard Rider,10,Alexander Kristoff,Team Katusha - Alpecin
+Wildcard Rider,10,Michael Matthews,Team Sunweb
+Wildcard Rider,10,Louis Meintjes,UAE Team Emirates
+Wildcard Rider,10,Pierre Rolland,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,10,Diego Ulissi,UAE Team Emirates
+Wildcard Rider,10,Simon Yates,ORICA-Scott
+Wildcard Rider,8,Michael Albasini,ORICA-Scott
+Wildcard Rider,8,John Darwin Atapuma,UAE Team Emirates
+Wildcard Rider,8,Jan Bakelants,AG2R La Mondiale
+Wildcard Rider,8,Warren Barguil,Team Sunweb
+Wildcard Rider,8,George Bennett,Team LottoNL-Jumbo
+Wildcard Rider,8,Carlos Betancur,Movistar Team
+Wildcard Rider,8,Patrick Bevin,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,8,Gianluca Brambilla,Quick-Step Floors
+Wildcard Rider,8,Emanuel Buchmann,Bora - Hansgrohe
+Wildcard Rider,8,Damiano Caruso,BMC Racing Team
+Wildcard Rider,8,Dario Cataldo,Astana Pro Team
+Wildcard Rider,8,Sylvain Chavanel,Direct Energie
+Wildcard Rider,8,Sonny Colbrelli,Bahrain Merida Pro Cycling Team
+Wildcard Rider,8,Alessandro De Marchi,BMC Racing Team
+Wildcard Rider,8,John Degenkolb,Trek - Segafredo
+Wildcard Rider,8,Fabio Felline,Trek - Segafredo
+Wildcard Rider,8,Rubén Fernández,Movistar Team
+Wildcard Rider,8,Mathias Frank,AG2R La Mondiale
+Wildcard Rider,8,Tony Gallopin,Lotto Soudal
+Wildcard Rider,8,Robert Gesink,Team LottoNL-Jumbo
+Wildcard Rider,8,Philippe Gilbert,Quick-Step Floors
+Wildcard Rider,8,Dylan Groenewegen,Team LottoNL-Jumbo
+Wildcard Rider,8,Jesús Herrada,Movistar Team
+Wildcard Rider,8,Roman Kreuziger,ORICA-Scott
+Wildcard Rider,8,Michal Kwiatkowski,Team Sky
+Wildcard Rider,8,Pierre Latour,AG2R La Mondiale
+Wildcard Rider,8,Tony Martin,Team Katusha - Alpecin
+Wildcard Rider,8,Daniel McLay,Fortuneo - Vital Concept
+Wildcard Rider,8,Bauke Mollema,Trek - Segafredo
+Wildcard Rider,8,Daniel Moreno,Movistar Team
+Wildcard Rider,8,Daniel Navarro,Cofidis Solutions Crédits
+Wildcard Rider,8,Mikel Nieve,Team Sky
+Wildcard Rider,8,Jarlinson Pantano,Trek - Segafredo
+Wildcard Rider,8,Serge Pauwels,Dimension Data
+Wildcard Rider,8,Nicolas Roche,BMC Racing Team
+Wildcard Rider,8,Primož Roglic,Team LottoNL-Jumbo
+Wildcard Rider,8,Andrew Talansky,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,8,Matteo Trentin,Quick-Step Floors
+Wildcard Rider,8,Rigoberto Uran,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,8,Greg Van Avermaet,BMC Racing Team
+Wildcard Rider,8,Tim Wellens,Lotto Soudal
+Wildcard Rider,6,Nikias Arndt,Team Sunweb
+Wildcard Rider,6,Lars Bak,Lotto Soudal
+Wildcard Rider,6,Daniele Bennati,Movistar Team
+Wildcard Rider,6,Tiesj Benoot,Lotto Soudal
+Wildcard Rider,6,Alberto Bettiol,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,6,Edvald Boasson Hagen,Dimension Data
+Wildcard Rider,6,Maciej Bodnar,Bora - Hansgrohe
+Wildcard Rider,6,Grega Bole,Bahrain Merida Pro Cycling Team
+Wildcard Rider,6,Maxime Bouet,Fortuneo - Vital Concept
+Wildcard Rider,6,Lilian Calmejane,Direct Energie
+Wildcard Rider,6,André Cardoso,Trek - Segafredo
+Wildcard Rider,6,Jonathan Castroviejo,Movistar Team
+Wildcard Rider,6,Davide Cimolai,FDJ
+Wildcard Rider,6,Ondrej Cink,Bahrain Merida Pro Cycling Team
+Wildcard Rider,6,Dimitri Claeys,Cofidis Solutions Crédits
+Wildcard Rider,6,Simon Clarke,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,6,Thomas De Gendt,Lotto Soudal
+Wildcard Rider,6,Axel Domont,AG2R La Mondiale
+Wildcard Rider,6,Alex Dowsett,Movistar Team
+Wildcard Rider,6,Samuel Dumoulin,AG2R La Mondiale
+Wildcard Rider,6,Luke Durbridge,ORICA-Scott
+Wildcard Rider,6,Nicolas Edet,Cofidis Solutions Crédits
+Wildcard Rider,6,Brice Feillu,Fortuneo - Vital Concept
+Wildcard Rider,6,Cyril Gautier,AG2R La Mondiale
+Wildcard Rider,6,Simon Geschke,Team Sunweb
+Wildcard Rider,6,Michael Gogl,Trek - Segafredo
+Wildcard Rider,6,Andrei Grivko,Astana Pro Team
+Wildcard Rider,6,Jacopo Guarnieri,FDJ
+Wildcard Rider,6,Marco Haller,Team Katusha - Alpecin
+Wildcard Rider,6,Jesper Hansen,Astana Pro Team
+Wildcard Rider,6,Adam Hansen,Lotto Soudal
+Wildcard Rider,6,Romain Hardy,Fortuneo - Vital Concept
+Wildcard Rider,6,Reto Hollenstein,Team Katusha - Alpecin
+Wildcard Rider,6,Damien Howson,ORICA-Scott
+Wildcard Rider,6,Daryl Impey,ORICA-Scott
+Wildcard Rider,6,Jens Keukeleire,ORICA-Scott
+Wildcard Rider,6,Vasil Kiryienka,Team Sky
+Wildcard Rider,6,Robert Kišerlovski,Team Katusha - Alpecin
+Wildcard Rider,6,Merhawi Kudus,Dimension Data
+Wildcard Rider,6,Stefan Küng,BMC Racing Team
+Wildcard Rider,6,Vegard Stake Laengen,UAE Team Emirates
+Wildcard Rider,6,Maurits Lammertink,Team Katusha - Alpecin
+Wildcard Rider,6,Yves Lampaert,Quick-Step Floors
+Wildcard Rider,6,Christophe Laporte,Cofidis Solutions Crédits
+Wildcard Rider,6,Alexey Lutsenko,Astana Pro Team
+Wildcard Rider,6,Tiago Machado,Team Katusha - Alpecin
+Wildcard Rider,6,Guillaume Martin,Wanty - Groupe Gobert
+Wildcard Rider,6,Luis Ángel Maté,Cofidis Solutions Crédits
+Wildcard Rider,6,Jay McCarthy,Bora - Hansgrohe
+Wildcard Rider,6,Amaël Moinard,BMC Racing Team
+Wildcard Rider,6,Oliver Naesen,AG2R La Mondiale
+Wildcard Rider,6,Yoann Offredo,Wanty - Groupe Gobert
+Wildcard Rider,6,Nelson Oliveira,Movistar Team
+Wildcard Rider,6,Pierre-Luc Perichon,Fortuneo - Vital Concept
+Wildcard Rider,6,Taylor Phinney,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,6,Jurgen Roelandts,Lotto Soudal
+Wildcard Rider,6,José Joaquín Rojas,Movistar Team
+Wildcard Rider,6,Luke Rowe,Team Sky
+Wildcard Rider,6,Fabio Sabatini,Quick-Step Floors
+Wildcard Rider,6,Michael Schar,BMC Racing Team
+Wildcard Rider,6,Florian Sénéchal,Cofidis Solutions Crédits
+Wildcard Rider,6,Eduardo Sepúlveda,Fortuneo - Vital Concept
+Wildcard Rider,6,Marcel Sieberg,Lotto Soudal
+Wildcard Rider,6,Julien Simon,Cofidis Solutions Crédits
+Wildcard Rider,6,Zdenek Stybar,Quick-Step Floors
+Wildcard Rider,6,Jasha Sütterlin,Movistar Team
+Wildcard Rider,6,Ben Swift,UAE Team Emirates
+Wildcard Rider,6,Laurens Ten Dam,Team Sunweb
+Wildcard Rider,6,Anthony Turgis,Cofidis Solutions Crédits
+Wildcard Rider,6,Florian Vachon,Fortuneo - Vital Concept
+Wildcard Rider,6,Petr Vakoc,Quick-Step Floors
+Wildcard Rider,6,Michael Valgren,Astana Pro Team
+Wildcard Rider,6,Dylan Van Baarle,Cannondale-Drapac Pro Cycling Team
+Wildcard Rider,6,Jos Van Emden,Team LottoNL-Jumbo
+Wildcard Rider,6,Jonas Van Genechten,Cofidis Solutions Crédits
+Wildcard Rider,6,Pieter Vanspeybrouck,Wanty - Groupe Gobert
+Wildcard Rider,6,Julien Vermote,Quick-Step Floors
+Wildcard Rider,6,Thomas Voeckler,Direct Energie
+Wildcard Rider,6,Alexis Vuillermoz,AG2R La Mondiale
+Wildcard Rider,6,Danilo Wyss,BMC Racing Team
+Wildcard Rider,6,Rick Zabel,Team Katusha - Alpecin
+Wildcard Rider,4,Frederik Backaert,Wanty - Groupe Gobert
+Wildcard Rider,4,Jack Bauer,Quick-Step Floors
+Wildcard Rider,4,Marcus Burghardt,Bora - Hansgrohe
+Wildcard Rider,4,Roy Curvers,Team Sunweb
+Wildcard Rider,4,Koen De Kort,Trek - Segafredo
+Wildcard Rider,4,Thomas Degand,Wanty - Groupe Gobert
+Wildcard Rider,4,Mickaël Delage,FDJ
+Wildcard Rider,4,Imanol Erviti,Movistar Team
+Wildcard Rider,4,Ben Gastauer,AG2R La Mondiale
+Wildcard Rider,4,Elie Gesbert,Fortuneo - Vital Concept
+Wildcard Rider,4,Tsgabu Grmay,Bahrain Merida Pro Cycling Team
+Wildcard Rider,4,Dmitriy Gruzdev,Astana Pro Team
+Wildcard Rider,4,Mathew Hayman,ORICA-Scott
+Wildcard Rider,4,Markel Irizar,Trek - Segafredo
+Wildcard Rider,4,Christian Knees,Team Sky
+Wildcard Rider,4,Ignatas Konovalovas,FDJ
+Wildcard Rider,4,Olivier Le Gac,FDJ
+Wildcard Rider,4,Tom Leezer,Team LottoNL-Jumbo
+Wildcard Rider,4,Cyril Lemoine,Cofidis Solutions Crédits
+Wildcard Rider,4,Paul Martens,Team LottoNL-Jumbo
+Wildcard Rider,4,Marco Minnaard,Wanty - Groupe Gobert
+Wildcard Rider,4,Laurent Pichon,Fortuneo - Vital Concept
+Wildcard Rider,4,Nils Politt,Team Katusha - Alpecin
+Wildcard Rider,4,Pawel Poljanski,Bora - Hansgrohe
+Wildcard Rider,4,Timo Roosen,Team LottoNL-Jumbo
+Wildcard Rider,4,Stephane Rossetto,Cofidis Solutions Crédits
+Wildcard Rider,4,Juraj Sagan,Bora - Hansgrohe
+Wildcard Rider,4,Marc Sarreau,FDJ
+Wildcard Rider,4,Rüdiger Selig,Bora - Hansgrohe
+Wildcard Rider,4,Ramon Sinkeldam,Team Sunweb
+Wildcard Rider,4,Geoffrey Soupe,Cofidis Solutions Crédits
+Wildcard Rider,4,Mike Teunissen,Team Sunweb
+Wildcard Rider,4,Albert Timmer,Team Sunweb
+Wildcard Rider,4,Guillaume Van Keirsbulck,Wanty - Groupe Gobert
+Wildcard Rider,4,Kenneth Vanbilsen,Cofidis Solutions Crédits
+Wildcard Rider,4,Robert Wagner,Team LottoNL-Jumbo
+Wildcard Rider,4,Andrey Zeits,Astana Pro Team
+
+
+Unclassed Rider 3,8,Michael Albasini,ORICA-Scott
+Unclassed Rider 3,8,Jan Bakelants,AG2R La Mondiale
+Unclassed Rider 3,8,Patrick Bevin,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 3,8,Dario Cataldo,Astana Pro Team
+Unclassed Rider 3,8,Sylvain Chavanel,Direct Energie
+Unclassed Rider 3,8,Fabio Felline,Trek - Segafredo
+Unclassed Rider 3,8,Rubén Fernández,Movistar Team
+Unclassed Rider 3,8,Tony Gallopin,Lotto Soudal
+Unclassed Rider 3,8,Philippe Gilbert,Quick-Step Floors
+Unclassed Rider 3,8,Jesús Herrada,Movistar Team
+Unclassed Rider 3,8,Roman Kreuziger,ORICA-Scott
+Unclassed Rider 3,8,Michal Kwiatkowski,Team Sky
+Unclassed Rider 3,8,Tony Martin,Team Katusha - Alpecin
+Unclassed Rider 3,8,Jarlinson Pantano,Trek - Segafredo
+Unclassed Rider 3,8,Nicolas Roche,BMC Racing Team
+Unclassed Rider 3,8,Matteo Trentin,Quick-Step Floors
+Unclassed Rider 3,8,Greg Van Avermaet,BMC Racing Team
+Unclassed Rider 3,8,Tim Wellens,Lotto Soudal
+Unclassed Rider 3,6,Nikias Arndt,Team Sunweb
+Unclassed Rider 3,6,Lars Bak,Lotto Soudal
+Unclassed Rider 3,6,Daniele Bennati,Movistar Team
+Unclassed Rider 3,6,Tiesj Benoot,Lotto Soudal
+Unclassed Rider 3,6,Alberto Bettiol,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 3,6,Maciej Bodnar,Bora - Hansgrohe
+Unclassed Rider 3,6,Grega Bole,Bahrain Merida Pro Cycling Team
+Unclassed Rider 3,6,Maxime Bouet,Fortuneo - Vital Concept
+Unclassed Rider 3,6,Lilian Calmejane,Direct Energie
+Unclassed Rider 3,6,André Cardoso,Trek - Segafredo
+Unclassed Rider 3,6,Jonathan Castroviejo,Movistar Team
+Unclassed Rider 3,6,Davide Cimolai,FDJ
+Unclassed Rider 3,6,Ondrej Cink,Bahrain Merida Pro Cycling Team
+Unclassed Rider 3,6,Dimitri Claeys,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Simon Clarke,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 3,6,Thomas De Gendt,Lotto Soudal
+Unclassed Rider 3,6,Axel Domont,AG2R La Mondiale
+Unclassed Rider 3,6,Alex Dowsett,Movistar Team
+Unclassed Rider 3,6,Luke Durbridge,ORICA-Scott
+Unclassed Rider 3,6,Nicolas Edet,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Brice Feillu,Fortuneo - Vital Concept
+Unclassed Rider 3,6,Cyril Gautier,AG2R La Mondiale
+Unclassed Rider 3,6,Simon Geschke,Team Sunweb
+Unclassed Rider 3,6,Michael Gogl,Trek - Segafredo
+Unclassed Rider 3,6,Andrei Grivko,Astana Pro Team
+Unclassed Rider 3,6,Jacopo Guarnieri,FDJ
+Unclassed Rider 3,6,Marco Haller,Team Katusha - Alpecin
+Unclassed Rider 3,6,Jesper Hansen,Astana Pro Team
+Unclassed Rider 3,6,Adam Hansen,Lotto Soudal
+Unclassed Rider 3,6,Romain Hardy,Fortuneo - Vital Concept
+Unclassed Rider 3,6,Reto Hollenstein,Team Katusha - Alpecin
+Unclassed Rider 3,6,Damien Howson,ORICA-Scott
+Unclassed Rider 3,6,Jens Keukeleire,ORICA-Scott
+Unclassed Rider 3,6,Vasil Kiryienka,Team Sky
+Unclassed Rider 3,6,Robert Kišerlovski,Team Katusha - Alpecin
+Unclassed Rider 3,6,Merhawi Kudus,Dimension Data
+Unclassed Rider 3,6,Stefan Küng,BMC Racing Team
+Unclassed Rider 3,6,Vegard Stake Laengen,UAE Team Emirates
+Unclassed Rider 3,6,Maurits Lammertink,Team Katusha - Alpecin
+Unclassed Rider 3,6,Yves Lampaert,Quick-Step Floors
+Unclassed Rider 3,6,Christophe Laporte,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Alexey Lutsenko,Astana Pro Team
+Unclassed Rider 3,6,Tiago Machado,Team Katusha - Alpecin
+Unclassed Rider 3,6,Guillaume Martin,Wanty - Groupe Gobert
+Unclassed Rider 3,6,Luis Ángel Maté,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Jay McCarthy,Bora - Hansgrohe
+Unclassed Rider 3,6,Amaël Moinard,BMC Racing Team
+Unclassed Rider 3,6,Oliver Naesen,AG2R La Mondiale
+Unclassed Rider 3,6,Yoann Offredo,Wanty - Groupe Gobert
+Unclassed Rider 3,6,Nelson Oliveira,Movistar Team
+Unclassed Rider 3,6,Pierre-Luc Perichon,Fortuneo - Vital Concept
+Unclassed Rider 3,6,Taylor Phinney,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 3,6,Luke Rowe,Team Sky
+Unclassed Rider 3,6,Fabio Sabatini,Quick-Step Floors
+Unclassed Rider 3,6,Michael Schar,BMC Racing Team
+Unclassed Rider 3,6,Florian Sénéchal,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Eduardo Sepúlveda,Fortuneo - Vital Concept
+Unclassed Rider 3,6,Marcel Sieberg,Lotto Soudal
+Unclassed Rider 3,6,Julien Simon,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Zdenek Stybar,Quick-Step Floors
+Unclassed Rider 3,6,Jasha Sütterlin,Movistar Team
+Unclassed Rider 3,6,Laurens Ten Dam,Team Sunweb
+Unclassed Rider 3,6,Anthony Turgis,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Florian Vachon,Fortuneo - Vital Concept
+Unclassed Rider 3,6,Petr Vakoc,Quick-Step Floors
+Unclassed Rider 3,6,Michael Valgren,Astana Pro Team
+Unclassed Rider 3,6,Dylan Van Baarle,Cannondale-Drapac Pro Cycling Team
+Unclassed Rider 3,6,Jos Van Emden,Team LottoNL-Jumbo
+Unclassed Rider 3,6,Jonas Van Genechten,Cofidis Solutions Crédits
+Unclassed Rider 3,6,Pieter Vanspeybrouck,Wanty - Groupe Gobert
+Unclassed Rider 3,6,Julien Vermote,Quick-Step Floors
+Unclassed Rider 3,6,Thomas Voeckler,Direct Energie
+Unclassed Rider 3,6,Alexis Vuillermoz,AG2R La Mondiale
+Unclassed Rider 3,6,Danilo Wyss,BMC Racing Team
+Unclassed Rider 3,6,Rick Zabel,Team Katusha - Alpecin
+Unclassed Rider 3,4,Frederik Backaert,Wanty - Groupe Gobert
+Unclassed Rider 3,4,Jack Bauer,Quick-Step Floors
+Unclassed Rider 3,4,Marcus Burghardt,Bora - Hansgrohe
+Unclassed Rider 3,4,Roy Curvers,Team Sunweb
+Unclassed Rider 3,4,Koen De Kort,Trek - Segafredo
+Unclassed Rider 3,4,Thomas Degand,Wanty - Groupe Gobert
+Unclassed Rider 3,4,Mickaël Delage,FDJ
+Unclassed Rider 3,4,Imanol Erviti,Movistar Team
+Unclassed Rider 3,4,Ben Gastauer,AG2R La Mondiale
+Unclassed Rider 3,4,Elie Gesbert,Fortuneo - Vital Concept
+Unclassed Rider 3,4,Tsgabu Grmay,Bahrain Merida Pro Cycling Team
+Unclassed Rider 3,4,Dmitriy Gruzdev,Astana Pro Team
+Unclassed Rider 3,4,Mathew Hayman,ORICA-Scott
+Unclassed Rider 3,4,Markel Irizar,Trek - Segafredo
+Unclassed Rider 3,4,Christian Knees,Team Sky
+Unclassed Rider 3,4,Ignatas Konovalovas,FDJ
+Unclassed Rider 3,4,Olivier Le Gac,FDJ
+Unclassed Rider 3,4,Tom Leezer,Team LottoNL-Jumbo
+Unclassed Rider 3,4,Cyril Lemoine,Cofidis Solutions Crédits
+Unclassed Rider 3,4,Paul Martens,Team LottoNL-Jumbo
+Unclassed Rider 3,4,Marco Minnaard,Wanty - Groupe Gobert
+Unclassed Rider 3,4,Laurent Pichon,Fortuneo - Vital Concept
+Unclassed Rider 3,4,Nils Politt,Team Katusha - Alpecin
+Unclassed Rider 3,4,Pawel Poljanski,Bora - Hansgrohe
+Unclassed Rider 3,4,Timo Roosen,Team LottoNL-Jumbo
+Unclassed Rider 3,4,Stephane Rossetto,Cofidis Solutions Crédits
+Unclassed Rider 3,4,Juraj Sagan,Bora - Hansgrohe
+Unclassed Rider 3,4,Marc Sarreau,FDJ
+Unclassed Rider 3,4,Rüdiger Selig,Bora - Hansgrohe
+Unclassed Rider 3,4,Ramon Sinkeldam,Team Sunweb
+Unclassed Rider 3,4,Geoffrey Soupe,Cofidis Solutions Crédits
+Unclassed Rider 3,4,Mike Teunissen,Team Sunweb
+Unclassed Rider 3,4,Albert Timmer,Team Sunweb
+Unclassed Rider 3,4,Guillaume Van Keirsbulck,Wanty - Groupe Gobert
+Unclassed Rider 3,4,Kenneth Vanbilsen,Cofidis Solutions Crédits
+Unclassed Rider 3,4,Robert Wagner,Team LottoNL-Jumbo
+Unclassed Rider 3,4,Andrey Zeits,Astana Pro Team
